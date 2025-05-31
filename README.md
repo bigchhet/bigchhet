@@ -2,7 +2,6 @@
 - 👀 I’m interested in eccommerce
 - 🌱 I’m currently learning C++, C#, Python, TSQL, Java, CSS, HTML
 - 💞️ I’m looking to collaborate on building websites
-- 📫 How to reach me @thebigchhet@gmail.com
 
 <!---
 bigchhet/bigchhet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
